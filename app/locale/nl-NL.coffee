@@ -26,7 +26,7 @@ module.exports = nativeDescription: "Nederlands (Nederland)", englishDescription
     admin: "Administrator" # Only shows up when you are an admin
     home: "Home"
     contribute: "Bijdragen"
-    legal: "Legaal"
+    legal: "Juridisch"
     about: "Over Ons"
     contact: "Contact"
     twitter_follow: "Volgen"
